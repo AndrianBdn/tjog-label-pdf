@@ -16,7 +16,7 @@ When printing the resulting files make sure to select 100% scale (fit to page ma
 
 ## Usage 
 
-1. Download either [tjog-labels-A4.pdf](tjog-labels-A4.pdf) or [tjog-labels-Letter.pdf](tjog-labels-Letter.pdf)
+1. Download either [tjog_labels_A4.pdf](tjog_labels_A4.pdf) or [tjog_labels_Letter.pdf](tjog_labels_Letter.pdf)
 2. Cut out the labels (black lines indicate cutting lines, gray lines indicate folding)
 3. Fold along the gray lines
 4. Insert into the metallic label holder
