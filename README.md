@@ -6,7 +6,7 @@ IKEA TJOG is a paperboard [storage box](https://www.ikea.com/ae/en/p/tjog-storag
 
 The labels are 51mmx44mm, supposed to be folded in two and inserted in the metallic table holder. The IKEA assembly instructions contains one label that could be cut out. However sometimes you need to replace the labels, and hence this repository. 
 
-You can generate the labels with the go code, or use PDF files [tjog-labels-A4.pdf](tjog-labels-A4.pdf) or [tjog-labels-Letter.pdf](tjog-labels-Letter.pdf) directly. 
+You can generate the labels with the go code, or use PDF files [tjog_labels_A4.pdf](tjog_labels_A4.pdf) or [tjog_labels_Letter.pdf](tjog_labels_Letter.pdf) directly. 
 
 You can add inscriptions to the labels by annotating the file in any PDF viewer software (use the top half of each label, above the fold line).
 
