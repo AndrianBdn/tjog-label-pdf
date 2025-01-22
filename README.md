@@ -21,6 +21,8 @@ When printing the resulting files make sure to select 100% scale (fit to page ma
 3. Fold along the gray lines
 4. Insert into the metallic label holder
 
+![tjog-label](https://github.com/user-attachments/assets/9f46bec9-4316-4cc9-9ee7-825babf7db6a)
+
 See [IKEA TJOG Assembly Instructions](https://www.ikea.com/ca/en/assembly_instructions/tjog-magazine-file-dark-gray__AA-2201975-1-2.pdf) page 4 for more details.
 
 ## Development
